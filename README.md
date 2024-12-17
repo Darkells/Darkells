@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **self**
  
- 🌱 I’m currently learning **Docker, GCP, AWS**
+ 🌱 I’m currently learning **Web3**
 
 💬 Ask me about **Java, Docker, DEVOPS... or anything [here](https://github.com/Darkells/Darkells/pulls)**
 
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,mongodb,java,nextjs,mysql,solidity" /><br>
 </div>
 
 <br/>
